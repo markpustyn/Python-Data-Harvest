@@ -1,4 +1,4 @@
-# Mark Pustynovich
+
 hello_pattern= """ _    _      _
 | |  | |    | |
 | |  | | ___| | ___ ___  _ __ ___   ___

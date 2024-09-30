@@ -1,5 +1,4 @@
 #!/bin/bash
-# Mark Pustynovich
 rm -f 'dataHarvest.db'
 
 python3 hello.py

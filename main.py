@@ -3,7 +3,6 @@ import re
 import os
 import sys
 import sqlite3
-# Mark Pustynovich
 
 def read_file(filename, lineNumber):
         try:
