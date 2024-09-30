@@ -1,5 +1,7 @@
 Data Harvest Inc. - Web Scraper
 
+Clone the repo:  git clone https://github.com/markpustyn/Python-Data-Harvest.git
+
 A Python-based online web scraper designed to gather important information including images, text, HTML, metadata, and links, all sorted and stored in a local SQL database.
 ![Screenshot 2024-09-30 103853](https://github.com/user-attachments/assets/09869de6-d291-4597-857a-fb3db543d2a9)
 
