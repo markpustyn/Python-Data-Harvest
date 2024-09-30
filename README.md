@@ -7,9 +7,9 @@ A Python-based online web scraper designed to gather important information inclu
     Note: It is recommended to run this program on a Linux distribution or Windows Subsystem for Linux (WSL) to properly execute the .sh (shell) scripts.
 
 ![Screenshot 2024-09-30 103938](https://github.com/user-attachments/assets/12695f4b-283a-4a02-90bf-43d68daf39b4)
-
-NOTE: Run sudo apt install sqlite3 to install needed sql to run program. 
+    Note: Run sudo apt install sqlite3 to install needed sql to run program. 
 To view saved data in the database to enter Sql shell. 
+
 RUN: sqlite3 'dataHarvest.db'
 
 Example: RUN  SELECT * from metaData; or SELECT * FROM urls;
