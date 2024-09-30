@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# MARK PUSTYNOVICH
+
 use strict;
 use warnings;
 

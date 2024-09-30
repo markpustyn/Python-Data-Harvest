@@ -1,4 +1,3 @@
-# Mark Pustynovich
 user_bye = """
 
 
